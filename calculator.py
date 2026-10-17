@@ -2,7 +2,7 @@
 CONTRIBUTORS = [] # Conflicts generator 1
  
 def add(a, b):
-    pass
+    return a + b
  
 def subtract(a, b):
     return a - b
