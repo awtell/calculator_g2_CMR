@@ -1,4 +1,4 @@
-CONTRIBUTORS = ['charbel',"Sanya""Mohamad Salaheddin"] # Conflicts generator 1
+CONTRIBUTORS = ['charbel',"Sanya","Mohamad Salaheddin",'Raiyan Rabbani'] # Conflicts generator 1
  
 def add(a, b):
     return a + b
