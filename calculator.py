@@ -1,14 +1,13 @@
- 
-CONTRIBUTORS = ["Mohamad Salaheddin"] # Conflicts generator 1
+CONTRIBUTORS = ['charbel',"Sanya""Mohamad Salaheddin"] # Conflicts generator 1
  
 def add(a, b):
-    pass
+    return a + b
  
 def subtract(a, b):
     return a - b
  
 def multiply(a, b):
-    pass
+    return a*b
  
 def divide(a, b):
     pass
