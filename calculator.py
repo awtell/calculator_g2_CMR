@@ -10,8 +10,10 @@ def multiply(a, b):
     return a*b
  
 def divide(a, b):
-    pass
+    if b == 0:
+        return "Cannot divide by zero"
+    return a / b
  
 if __name__ == "__main__":
     print(f"Welcome to the Group Calculator!, written by {CONTRIBUTORS}")
-    print(subtract(5, 2)) # Conflicts generator 2
+    print(divide(10, 2)) # Conflicts generator 2
